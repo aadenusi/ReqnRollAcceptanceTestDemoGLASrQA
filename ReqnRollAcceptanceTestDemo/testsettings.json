@@ -1,0 +1,9 @@
+{
+  "baseUri": "https://www.london.gov.uk/talk-london/",
+  "cookiesPopup": {
+    "acceptButton": {
+      "selector": "//button[contains(text(),'I Accept')]",
+      "timeout": 5
+    }
+  }
+}
